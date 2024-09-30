@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* Closeread CSS styles */
+
+.cr-section.sticky-col.sticky-col-stack {
+  transition:
+    transform 3s ease-in-out !important;
+}
+
+.cr-section .narrative-col {
+  padding-left: 30px;
+  min-width: 350px;
+}
+
+.cr-section .sticky-col {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#quarto-content .cr-section .narrative-col .trigger {
+  padding-top: 10svh;
+  padding-bottom: 85svh;
+}
+
+
