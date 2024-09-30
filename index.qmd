@@ -5,7 +5,6 @@ format:
   closeread-html:
     css: cr-tufte.css
     code-tools: true
-    self-contained: true
     code-overflow: wrap
 ---
 

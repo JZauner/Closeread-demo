@@ -1,7 +1,11 @@
 project:
   title: "Closeread"
   type: website
+<<<<<<< HEAD
   output_dir: "docs"
+=======
+  output-dir: docs
+>>>>>>> 2daf1ff (pushing to /docs)
 
 
 
